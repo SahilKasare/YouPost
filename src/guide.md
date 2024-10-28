@@ -21,3 +21,7 @@
   * create post, delete post,  updatePost, getPost, getPosts.
 * Step 6 : File Upload and File Delete about `storage` 
   * createFile,  deleteFile, getFilePreview
+* Step 7 : Setup of Redux use the documentation
+  * Create store and wrap the app with the provider and store
+  * Create authSlice for login and logout track
+  * Setup Loading State
